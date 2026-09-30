@@ -1,4 +1,4 @@
-# RK Industrie
+# NRX Industrie
 
 Customizable, modular 3D-printed pegboard panels with integrated RGB lighting, for storing gaming and work gear (keyboard, controllers, headset, mouse, tools, plants, etc.). Customers design their own panel on our website and add the components they want.
 
