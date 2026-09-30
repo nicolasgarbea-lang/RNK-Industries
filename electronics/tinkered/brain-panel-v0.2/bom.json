@@ -1,0 +1,305 @@
+[
+  {
+    "refs": [
+      "C5VHF",
+      "CPD"
+    ],
+    "qty": 2,
+    "type": "capacitor",
+    "label": "Capacitor",
+    "value": "100n"
+  },
+  {
+    "refs": [
+      "CBULK",
+      "COUT"
+    ],
+    "qty": 2,
+    "type": "capacitor",
+    "label": "Capacitor",
+    "value": "220u"
+  },
+  {
+    "refs": [
+      "CLED"
+    ],
+    "qty": 1,
+    "type": "capacitor",
+    "label": "Capacitor",
+    "value": "100u"
+  },
+  {
+    "refs": [
+      "CSA",
+      "CSB"
+    ],
+    "qty": 2,
+    "type": "capacitor",
+    "label": "Capacitor",
+    "value": "10u"
+  },
+  {
+    "refs": [
+      "DBUCK"
+    ],
+    "qty": 1,
+    "type": "cat:Diode/SS34",
+    "label": "SS34",
+    "catalogKey": "Diode/SS34"
+  },
+  {
+    "refs": [
+      "DLED1",
+      "DLED2",
+      "DLED3",
+      "DLED4",
+      "DLED5",
+      "DLED6",
+      "DLED7",
+      "DLED8",
+      "DLED9",
+      "DLED10"
+    ],
+    "qty": 10,
+    "type": "cat:LED/WS2812B",
+    "label": "WS2812B",
+    "catalogKey": "LED/WS2812B"
+  },
+  {
+    "refs": [
+      "DLIN"
+    ],
+    "qty": 1,
+    "type": "cat:Diode/1N4148",
+    "label": "1N4148",
+    "catalogKey": "Diode/1N4148"
+  },
+  {
+    "refs": [
+      "DTVS"
+    ],
+    "qty": 1,
+    "type": "cat:Diode/SMF24A",
+    "label": "SMF24A",
+    "catalogKey": "Diode/SMF24A"
+  },
+  {
+    "refs": [
+      "DZE"
+    ],
+    "qty": 1,
+    "type": "cat:Diode/BZV55C10",
+    "label": "BZV55C10",
+    "catalogKey": "Diode/BZV55C10"
+  },
+  {
+    "refs": [
+      "FER",
+      "FSA",
+      "FSB"
+    ],
+    "qty": 3,
+    "type": "cat:Device/Polyfuse",
+    "label": "Polyfuse",
+    "catalogKey": "Device/Polyfuse"
+  },
+  {
+    "refs": [
+      "FIN"
+    ],
+    "qty": 1,
+    "type": "cat:Device/Fuse",
+    "label": "Fuse",
+    "catalogKey": "Device/Fuse"
+  },
+  {
+    "refs": [
+      "JER",
+      "JSA",
+      "JSB"
+    ],
+    "qty": 3,
+    "type": "cat:Connector_Generic/Conn_01x05",
+    "label": "Conn_01x05",
+    "catalogKey": "Connector_Generic/Conn_01x05"
+  },
+  {
+    "refs": [
+      "JUSB"
+    ],
+    "qty": 1,
+    "type": "cat:Connector/USB_C_Receptacle_PowerOnly_6P",
+    "label": "USB_C_Receptacle_PowerOnly_6P",
+    "catalogKey": "Connector/USB_C_Receptacle_PowerOnly_6P"
+  },
+  {
+    "refs": [
+      "LBUCK"
+    ],
+    "qty": 1,
+    "type": "inductor",
+    "label": "Inductor",
+    "value": "33u"
+  },
+  {
+    "refs": [
+      "QER1",
+      "QER2",
+      "QPRE"
+    ],
+    "qty": 3,
+    "type": "cat:Transistor_FET/Si2319CDS",
+    "label": "Si2319CDS",
+    "catalogKey": "Transistor_FET/Si2319CDS"
+  },
+  {
+    "refs": [
+      "QNA",
+      "QNB",
+      "QNE",
+      "QPREN"
+    ],
+    "qty": 4,
+    "type": "cat:Transistor_BJT/2N3904",
+    "label": "2N3904",
+    "catalogKey": "Transistor_BJT/2N3904"
+  },
+  {
+    "refs": [
+      "QSA",
+      "QSB"
+    ],
+    "qty": 2,
+    "type": "cat:Transistor_FET/AO3401A",
+    "label": "AO3401A",
+    "catalogKey": "Transistor_FET/AO3401A"
+  },
+  {
+    "refs": [
+      "RBA",
+      "RBB",
+      "RBE",
+      "RLIN",
+      "RPREB"
+    ],
+    "qty": 5,
+    "type": "resistor",
+    "label": "Resistor",
+    "value": "1k"
+  },
+  {
+    "refs": [
+      "RBX",
+      "RCFG2",
+      "RCFG3",
+      "RGA",
+      "RGB",
+      "RIDA",
+      "RPX",
+      "RQNE"
+    ],
+    "qty": 8,
+    "type": "resistor",
+    "label": "Resistor",
+    "value": "10k"
+  },
+  {
+    "refs": [
+      "RDA",
+      "RDB"
+    ],
+    "qty": 2,
+    "type": "resistor",
+    "label": "Resistor",
+    "value": "390"
+  },
+  {
+    "refs": [
+      "RGE",
+      "RPA",
+      "RPB",
+      "RPE",
+      "RPG",
+      "RPPD",
+      "RPUA",
+      "RPUB",
+      "RSEN1"
+    ],
+    "qty": 9,
+    "type": "resistor",
+    "label": "Resistor",
+    "value": "100k"
+  },
+  {
+    "refs": [
+      "RSEN2"
+    ],
+    "qty": 1,
+    "type": "resistor",
+    "label": "Resistor",
+    "value": "22k"
+  },
+  {
+    "refs": [
+      "SWMOD",
+      "SWSHORT"
+    ],
+    "qty": 2,
+    "type": "sw-spst",
+    "label": "Switch (SPST)"
+  },
+  {
+    "refs": [
+      "UBRAIN"
+    ],
+    "qty": 1,
+    "type": "cat:RF_Module/ESP32-C3-DevKitM-1",
+    "label": "ESP32-C3-DevKitM-1",
+    "catalogKey": "RF_Module/ESP32-C3-DevKitM-1"
+  },
+  {
+    "refs": [
+      "UBUCK"
+    ],
+    "qty": 1,
+    "type": "cat:Regulator_Switching/LM2596S-5",
+    "label": "LM2596S-5",
+    "catalogKey": "Regulator_Switching/LM2596S-5"
+  },
+  {
+    "refs": [
+      "ULINB",
+      "ULINP"
+    ],
+    "qty": 2,
+    "type": "cat:Interface_CAN_LIN/TJA1021xT",
+    "label": "TJA1021xT",
+    "catalogKey": "Interface_CAN_LIN/TJA1021xT"
+  },
+  {
+    "refs": [
+      "UPANEL"
+    ],
+    "qty": 1,
+    "type": "reg:arduino-nano-v3",
+    "label": "Arduino Nano V3"
+  },
+  {
+    "refs": [
+      "UPD"
+    ],
+    "qty": 1,
+    "type": "cat:Interface_USB/CH224K",
+    "label": "CH224K",
+    "catalogKey": "Interface_USB/CH224K"
+  },
+  {
+    "refs": [
+      "RPRE"
+    ],
+    "qty": 1,
+    "type": "resistor",
+    "label": "Resistor",
+    "value": "470 (1 W)"
+  }
+]

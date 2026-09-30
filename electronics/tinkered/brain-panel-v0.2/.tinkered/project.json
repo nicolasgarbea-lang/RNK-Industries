@@ -1,0 +1,13 @@
+{
+  "id": "19efd7e9-b08b-4a6c-947e-47c028582612",
+  "name": "Modular Smart RGB Pegboard Brain Panel",
+  "path": "Modular Smart RGB Pegboard Brain Panel",
+  "board": "arduino",
+  "boardId": "arduino-nano",
+  "boardFqbn": "arduino:avr:nano",
+  "createdAt": 1790774360668,
+  "updatedAt": 1790775987862,
+  "schemaVersion": 1,
+  "exportedAt": "2026-09-30T13:48:17.751Z",
+  "exportedBy": "tinkered-app/1.0"
+}

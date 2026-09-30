@@ -8,3 +8,5 @@ Thumbs.db
 *.bak
 *~
 .env
+.pio/
+test/sim
