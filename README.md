@@ -19,6 +19,9 @@ Services: CAD design · Arduino / embedded · 3D printing · maker solutions
 | [`electronics/`](electronics/) | Electrical architecture, schematics, PCB (powered slots, pogo pins, LEDs) |
 | [`firmware/`](firmware/) | Code for the brain panel, the panels and the screen modules |
 | [`business/`](business/) | Idea and story, pricing and product details, business process |
+| [`pal/`](pal/) | **Pal**, the desktop companion robot (sub-project, self-contained: design, mechanical, electronics, firmware, app, business) |
+
+The folders above are for the pegboard. Pal lives entirely in `pal/`.
 
 ## Workflow
 
