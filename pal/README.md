@@ -31,6 +31,7 @@ It powers on with your PC over USB-C. Users type their to-dos and habits into th
 | [`firmware/`](firmware/) | Code running on Pal (ESP32-S3) |
 | [`app/`](app/) | The NRX app: to-dos, habits, reminders, Pal settings |
 | [`business/`](business/) | Pitch, target customers, cost and price |
+| [`roadmap.md`](roadmap.md) | What we need to make Pal feasible, in order, plus the proposed decisions (local-first app, voice on the PC) |
 
 ## Workflow
 
@@ -42,6 +43,7 @@ The same flow as the pegboard:
 ## Open questions
 
 - [ ] **Envelope orientation.** The brief says 6 x 9 x 6 cm, but the concept sheet labels the front as 6 x 6 cm and the side as 9 cm. Which way is up: 60 W x **90 H** x 60 D, or 60 W x 60 H x **90 D**?
-- [ ] Voice processing: on-device wake word, but where do speech-to-text, answers and text-to-speech run (PC app or cloud)? See [`firmware/`](firmware/README.md#voice-pipeline).
+- [ ] Voice processing: wake word on Pal, but where do speech-to-text, answers and text-to-speech run? **Proposal: locally in the PC app, with an optional cloud mode later** (see [`roadmap.md`](roadmap.md#proposed-decisions)).
+- [ ] App hosting: **proposal: a local-first desktop app with no server for the MVP**, and optional cloud sync later (see [`roadmap.md`](roadmap.md#proposed-decisions)).
 - [ ] How does Pal stay seated on thin modern monitor bezels? Hands as a counterweight, a silicone base, or an optional clip?
 - [ ] Final name and logo: "pal" in lowercase, as on the concept sheet?
