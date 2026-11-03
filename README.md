@@ -20,8 +20,9 @@ Services: CAD design · Arduino / embedded · 3D printing · maker solutions
 | [`firmware/`](firmware/) | Code for the brain panel, the panels and the screen modules |
 | [`business/`](business/) | Idea and story, pricing and product details, business process |
 | [`pal/`](pal/) | **Pal**, the desktop companion robot (sub-project, self-contained: design, mechanical, electronics, firmware, app, business) |
+| [`mini-pal/`](mini-pal/) | **Mini Pal**: only the face in a small box. Rotates through face, time and weather, and reacts to notifications (sub-project, same layout as `pal/`) |
 
-The folders above are for the pegboard. Pal lives entirely in `pal/`.
+The folders above `pal/` are for the pegboard. Pal and Mini Pal each live entirely in their own folder.
 
 ## Workflow
 

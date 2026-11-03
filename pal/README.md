@@ -31,6 +31,8 @@ It powers on with your PC over USB-C. Users type their to-dos and habits into th
 | [`firmware/`](firmware/) | Code running on Pal (ESP32-S3) |
 | [`app/`](app/) | The NRX app: to-dos, habits, reminders, Pal settings |
 | [`business/`](business/) | Pitch, target customers, cost and price |
+| [`todo.md`](todo.md) | Everything that needs to be done, as a checklist |
+| [`shopping-list.md`](shopping-list.md) | What to buy for each phase, with estimated prices |
 | [`roadmap.md`](roadmap.md) | What we need to make Pal feasible, in order, plus the proposed decisions (local-first app, voice on the PC) |
 
 ## Workflow
